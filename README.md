@@ -10,7 +10,7 @@
 2. [Project Overview](#project-overview)
 3. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
+   - [More on Setting up](#more-on-setting-up)
    - [Visualization](#visualization)
    - [Results and Possible Improvements](#results-and-possible-improvements)
    - [Deployment](#deployment)
@@ -32,7 +32,7 @@
 **Python: 
 The project is written in Python, so you need to have Python installed on your machine. You can download Python from python.org or use a package manager like Anaconda or Miniconda and follow up on the INSTALLATION steps.
 
-## Installation
+## More on Setting up
 
 **Clone the project repository to your local machine ➡ Navigate to the project directory ➡ Create a virtual environment (optional but recommended) to isolate project dependencies ➡ Activate the virtual environment(On WindowsOn, macOS and Linux) ➡ Install the project dependencies.
   - for google colab set-up: mount drive and install dependencies on colab the notebook, then import the following below:
