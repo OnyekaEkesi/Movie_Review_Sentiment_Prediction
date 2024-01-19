@@ -42,6 +42,21 @@ The project is written in Python, so you need to have Python installed on your m
   - sklearn etc
 ## Visualization
 
+**A wordcloud displaying the most frequent words in the reviews**
+<p align = 'center'> 
+<img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/combined_wordcloud.png?raw=true'>
+</p>  <br>
+
+**An Image displaying the Positive and Negative Wordclouds**
+<p align = 'center'> 
+<img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/positve_negative_wordcloud.png?raw=true'>
+</p>  <br>
+
+**A plot of most frequent words and number of occurence**
+<p align = 'center'> 
+<img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/top_15-words.png?raw=true'>
+</p>  <br>
+ 
 ## Possible Improvements
 
 **This project can be possibly improved through hyperparamter tuning, LLM, neural networks etc. You are welcomed to try as much as possible to improve Acccuracy. 
