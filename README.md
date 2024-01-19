@@ -47,12 +47,12 @@ The project is written in Python, so you need to have Python installed on your m
 <img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/combined_wordcloud.png?raw=true'>
 </p>  <br>
 
-**An Image displaying the Positive and Negative Wordclouds**
+**An Image displaying wordclouds for the most recurring words in the Positive and Negative reviews**
 <p align = 'center'> 
 <img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/positve_negative_wordcloud.png?raw=true'>
 </p>  <br>
 
-**A plot showing the most frequent words their and number of occurence**
+**A plot showing the most frequent words in the dataset and their and number of occurence**
 <p align = 'center'> 
 <img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/top_15-words.png?raw=true'>
 </p>  <br>
