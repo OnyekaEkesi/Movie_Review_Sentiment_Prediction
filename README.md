@@ -12,7 +12,7 @@
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
    - [Visualization](#visualization)
-   - [Possible Improvements](#possible-improvements)
+   - [Results and Possible Improvements](#results-and-possible-improvements)
    - [Deployment](#deployment)
    - [Benefits](#benefits)
    - [Contributors](#contributors)
@@ -57,9 +57,10 @@ The project is written in Python, so you need to have Python installed on your m
 <img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/top_15-words.png?raw=true'>
 </p>  <br>
  
-## Possible Improvements
+## Results and Possible Improvements
 
-**This project can be possibly improved through hyperparamter tuning, LLM, neural networks etc. You are welcomed to try as much as possible to improve Acccuracy. 
+**5 Models were compared in this project, the accuracy was used to determine the model of best pick. Explore the  notebook to discover more steps taken in the data preprocessing and modeling.
+This project can be possibly improved through hyperparamter tuning and exploration of other models, LLM, neural networks etc. You are welcomed to try as much as possible to improve Acccuracy. 
 
 ## Deployment
 
