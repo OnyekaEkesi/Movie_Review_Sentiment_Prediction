@@ -59,7 +59,7 @@ The project is written in Python, so you need to have Python installed on your m
  
 ## Results and Possible Improvements
 
-**5 Models were compared in this project, the accuracy was used to determine the model of best pick. Explore the  notebook to discover more steps taken in the data preprocessing and modeling.
+**5 Models were compared in this project, the accuracy was used to determine the model of best pick. Explore the  notebook to discover more steps taken in the data preprocessing and modeling.<br>
 This project can be possibly improved through hyperparamter tuning and exploration of other models, LLM, neural networks etc. You are welcomed to try as much as possible to improve Acccuracy. 
 
 ## Deployment
