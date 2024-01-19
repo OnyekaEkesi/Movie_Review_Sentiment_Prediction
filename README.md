@@ -35,7 +35,7 @@ The project is written in Python, so you need to have Python installed on your m
 ## Installation
 
 **Clone the project repository to your local machine ➡ Navigate to the project directory ➡ Create a virtual environment (optional but recommended) to isolate project dependencies ➡ Activate the virtual environment(On WindowsOn, macOS and Linux) ➡ Install the project dependencies.
-  - for google colab: mount drive and install dependencies on colab notebook, then import the following below:
+  - for google colab set-up: mount drive and install dependencies on colab the notebook, then import the following below:
   - nltk
   - comet
   - seaborne
