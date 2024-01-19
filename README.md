@@ -52,7 +52,7 @@ The project is written in Python, so you need to have Python installed on your m
 <img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/positve_negative_wordcloud.png?raw=true'>
 </p>  <br>
 
-**A plot of most frequent words and number of occurence**
+**A plot showing the most frequent words their and number of occurence**
 <p align = 'center'> 
 <img width='700' height='400' src = 'https://github.com/OnyekaEkesi/Movie_Review_Sentiment_Prediction/blob/main/src/top_15-words.png?raw=true'>
 </p>  <br>
